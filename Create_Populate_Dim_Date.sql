@@ -1,4 +1,4 @@
-USE northwind_dw2;
+USE sakila_dw;
 
 # DROP TABLE IF EXISTS dim_date;
 CREATE TABLE dim_date(
